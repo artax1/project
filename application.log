@@ -1,0 +1,19 @@
+2024-12-16 09:28:16 [main] INFO : Приложение запущено.
+2024-12-16 09:28:16 [JavaFX Application Thread] INFO : Программа File System Analyzer запущена.
+2024-12-16 09:28:21 [JavaFX Application Thread] INFO : Выбрана директория: C:\msys64
+2024-12-16 09:28:37 [JavaFX Application Thread] INFO : Общий вес директории: 1,63 GB
+2024-12-16 09:29:12 [main] INFO : Приложение запущено.
+2024-12-16 09:29:12 [JavaFX Application Thread] INFO : Программа File System Analyzer запущена.
+2024-12-16 09:29:13 [JavaFX Application Thread] WARN : Директория не выбрана, приложение завершено.
+2024-12-16 09:54:52 [main] INFO : Приложение запущено.
+2024-12-16 09:54:52 [JavaFX Application Thread] INFO : Программа File System Analyzer запущена.
+2024-12-16 09:57:28 [JavaFX Application Thread] INFO : Выбрана директория: C:\Qt
+2024-12-16 09:57:50 [JavaFX Application Thread] INFO : Общий вес директории: 5,27 GB
+2024-12-16 10:04:29 [main] INFO : Приложение запущено.
+2024-12-16 10:04:29 [JavaFX Application Thread] INFO : Программа File System Analyzer запущена.
+2024-12-16 10:04:33 [JavaFX Application Thread] INFO : Выбрана директория: C:\Qt
+2024-12-16 10:04:54 [JavaFX Application Thread] INFO : Общий вес директории: 5,27 GB
+2024-12-16 22:07:54 [main] INFO : Приложение запущено.
+2024-12-16 22:07:54 [JavaFX Application Thread] INFO : Программа File System Analyzer запущена.
+2024-12-16 22:08:37 [JavaFX Application Thread] INFO : Выбрана директория: C:\Qt
+2024-12-16 22:09:08 [JavaFX Application Thread] INFO : Общий вес директории: 5,27 GB
